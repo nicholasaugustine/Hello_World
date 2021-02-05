@@ -7,7 +7,7 @@ My name is Nick Augustine and I am a third year pre-optometry student at the Uni
 
 ## Project Title
 
-**Hello World Sample** 
+**Hello World Assignment:** 
 *GetHub Set-Up* 
 
 ## Description
